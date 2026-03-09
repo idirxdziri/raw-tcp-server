@@ -1,0 +1,25 @@
+{
+  "name": "raw-tcp-server",
+  "version": "1.0.0",
+  "description": "A raw TCP server & client built from scratch using Node.js net module — understanding TCP behind the scenes",
+  "homepage": "https://github.com/idirxdziri/raw-tcp-server#readme",
+  "bugs": {
+    "url": "https://github.com/idirxdziri/raw-tcp-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idirxdziri/raw-tcp-server.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
